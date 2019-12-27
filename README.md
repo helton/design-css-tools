@@ -81,7 +81,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 ### `flex`
 
-- [https://www.htmllion.com/css-flexbox.html](https://www.htmllion.com/css-flexbox.html)
+- [CSS Flexbox  - HTML Lion](https://www.htmllion.com/css-flexbox.html)
 
 ### `font`
 
