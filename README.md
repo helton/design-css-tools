@@ -2,26 +2,32 @@
 Design and CSS generator tools available out there. Ranked alphabetically in each category, best first (I hope).
 
 ## Table of Contents
-  * [Table of Contents](#table-of-contents)
+ * [Table of Contents](#table-of-contents)
   * [HTML elements and CSS properties](#html-elements-and-css-properties)
-    + [`a`](#a)  
+    + [`a`](#a)
     + [`background`](#background)
     + [`background-color`](#background-color)
+    + [`color`](#color)
     + [`border`](#border)
     + [`outline`](#outline)
-    + [`color`](#color)
     + [`border-radius`](#border-radius)
     + [`box-shadow`](#box-shadow)
     + [`column`](#column)
     + [`div`](#div)
+    + [`flex`](#flex)
     + [`font`](#font)
+    + [`form`](#form)
+    + [`iframe`](#iframe)
+    + [`img`](#img)
     + [`linear-gradient`](#linear-gradient)
     + [`table`](#table)
     + [`text-shadow`](#text-shadow)
     + [`transform`](#transform)
+    + [`transition`](#transition)
     + [`ul`](#ul)
     + [`dl`](#dl)
     + [`ol`](#ol)
+  * [Animation](#animation)
   * [Unit Converters](#unit-converters)
   * [Misc](#misc)
 
@@ -45,6 +51,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 - [Generate - Coolors.co](https://coolors.co/)
 - [Color Hex Color Codes](https://www.color-hex.com/)
 - [𝗥𝗚𝗕 𝗖𝗢𝗟𝗢𝗥 𝗖𝗢𝗗𝗘 🎨 The Best Color Picker](https://rgbcolorcode.com/)
+- [CSS 3.0 RGBA | CSS RGBA | CSS3 RGBA | RGBA](https://www.css3maker.com/css-3-rgba.html)
 
 ### `border`
 ### `outline`
@@ -55,11 +62,14 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 - [Border Radius CSS Generator | CSSmatic](https://www.cssmatic.com/border-radius)
 - [Border Radius CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/border-radius/)
+- [Border Radius | CSS Border Radius | CSS 3.0 Border Radius | CSS3.0 Border Radius](https://www.css3maker.com/border-radius.html)
+
 
 ### `box-shadow`
 
 - [Box Shadow CSS Generator | CSSmatic](https://www.cssmatic.com/box-shadow)
 - [Box Shadow CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/box-shadow)
+- [Box Shadow | CSS 3.0 Box Shadow](https://www.css3maker.com/box-shadow.html)
 
 ### `column`
 
@@ -69,9 +79,14 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 - [Grid Designer 2](http://grid.mindplay.dk/)
 
+### `flex`
+
+- [https://www.htmllion.com/css-flexbox.html](https://www.htmllion.com/css-flexbox.html)
+
 ### `font`
 
 - [Font CSS Style Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/font/)
+- [@Font Face | CSS @Font Face | CSS 3.0 @Font Face](https://www.css3maker.com/font-face.html)
 
 ### `form`
 
@@ -89,7 +104,9 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 ### `linear-gradient`
 
 - [Gradient CSS Generator | CSSmatic](https://www.cssmatic.com/gradient-generator)
+- [Ultimate CSS Gradient Generator - ColorZilla.com](https://www.colorzilla.com/gradient-editor/)
 - [Gradient CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/gradient)
+- [CSS Gradient | CSS 3.0 Gradient](https://www.css3maker.com/css-gradient.html)
 
 ### `table`
 
@@ -100,16 +117,27 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 ### `text-shadow`
 
 - [Text Shadow CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/text-shadow/)
+ -[Text Shadow | CSS3 Text Shadow | CSS 3.0 Text Shadow](https://www.css3maker.com/text-shadow.html)
 
 ### `transform`
 
 - [Transform CSS Generator: 𝗦𝗖𝗔𝗟𝗘, 𝗥𝗢𝗧𝗔𝗧𝗘, 𝗧𝗥𝗔𝗡𝗦𝗟𝗔𝗧𝗘 𝗔𝗡𝗗 𝗦𝗞𝗘𝗪](https://html-css-js.com/css/generator/transform/)
+- [CSS Transform | CSS 3.0 Transform Maker | CSS 3.0 Transform](https://www.css3maker.com/css3-transform.html)
+- [Text Rotation |  CSS Text Rotation | CSS 3.0 Text Rotation](https://www.css3maker.com/text-rotation.html)
+
+### `transition`
+
+- [CSS Transition | CSS 3.0 Transition | Transition ](https://www.css3maker.com/css3-transition.html)
 
 ### `ul`
 ### `dl`
 ### `ol`
 
 - [HTML List Tag Generator - 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗛𝗧𝗠𝗟 𝗖𝗢𝗗𝗘 𝗪𝗜𝗭𝗔𝗥𝗗](https://html-css-js.com/html/generator/list/)
+
+## Animation
+
+- [CSS Animation | CSS 3.0 Animation | Animation |  Animation Generator](https://www.css3maker.com/css3-animation.html)
 
 ## Unit Converters
 
