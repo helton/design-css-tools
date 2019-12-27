@@ -12,6 +12,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
     + [`outline`](#outline)
     + [`border-radius`](#border-radius)
     + [`box-shadow`](#box-shadow)
+    + [`button`](#button)
     + [`column`](#column)
     + [`div`](#div)
     + [`flex`](#flex)
@@ -30,6 +31,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
   * [Animation](#animation)
   * [Unit Converters](#unit-converters)
   * [Misc](#misc)
+  * [CSS Generator](#css-generator)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -60,6 +62,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 ### `border-radius`
 
+- [CSS Border Radius Generator](https://border-radius.com/)
 - [Border Radius CSS Generator | CSSmatic](https://www.cssmatic.com/border-radius)
 - [Border Radius CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/border-radius/)
 - [Border Radius | CSS Border Radius | CSS 3.0 Border Radius | CSS3.0 Border Radius](https://www.css3maker.com/border-radius.html)
@@ -71,6 +74,10 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 - [Box Shadow CSS Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/box-shadow)
 - [Box Shadow | CSS 3.0 Box Shadow](https://www.css3maker.com/box-shadow.html)
 
+### `button`
+
+- [CSS Button Generator: Create HTML and CSS Button Styles](https://www.bestcssbuttongenerator.com/)
+
 ### `column`
 
 - [CSS Multi Column Generator | 𝗧𝗛𝗘 𝗕𝗘𝗦𝗧 𝗢𝗡𝗟𝗜𝗡𝗘 𝗖𝗦𝗦 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥](https://html-css-js.com/css/generator/column/)
@@ -81,6 +88,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 ### `flex`
 
+- [Flexy Boxes — CSS flexbox playground and code generation tool](https://the-echoplex.net/flexyboxes/)
 - [CSS Flexbox  - HTML Lion](https://www.htmllion.com/css-flexbox.html)
 
 ### `font`
@@ -137,6 +145,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 ## Animation
 
+- [WAIT! Animate](https://waitanimate.wstone.io/#!/)
 - [CSS Animation | CSS 3.0 Animation | Animation |  Animation Generator](https://www.css3maker.com/css3-animation.html)
 
 ## Unit Converters
@@ -145,4 +154,15 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 ## Misc
 
+- [Patternify | CSS Pattern Generator](http://www.patternify.com/)
 - [Noise Texture CSS Generator | CSSmatic](https://www.cssmatic.com/noise-texture)
+
+## Generators Collection
+
+- [The Ultimate Collection Of CSS Generators » CSS Author](https://cssauthor.com/css-generators/)
+- [Online CSS3 Code Generator With a Simple Graphical Interface - EnjoyCSS](https://enjoycss.com/)
+- [The Ultimate CSS Generator](https://webcode.tools/css-generator)
+- [CSS3.0 Maker | CSS3.0 Generator | CSS 3.0 Generator | css3 generator](https://www.css3maker.com/)
+- [The ultimate CSS tools for web designers | CSSmatic](https://www.cssmatic.com/)
+- [CSS Generator](https://angrytools.com/css-generator/)
+- [CSS Generator Tool - CSS Demonstration and Generation](https://cssgenerator.org/)
