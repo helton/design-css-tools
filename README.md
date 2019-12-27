@@ -31,7 +31,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
   * [Animation](#animation)
   * [Unit Converters](#unit-converters)
   * [Misc](#misc)
-  * [CSS Generator](#css-generator)
+  * [Generators Collection](#generators-collection)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
