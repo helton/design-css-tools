@@ -10,6 +10,7 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
     + [`transform`](#transform)
     + [`box-shadow`](#box-shadow)
     + [`border-radius`](#border-radius)
+  * [Unit Converters](#unit-converters)
   * [Misc](#misc)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
@@ -25,6 +26,9 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 ### `color`
 
 - [Eva Design System: Deep Learning color generator](https://colors.eva.design/)
+- [Color Hunt - Popular Schemes for Designers and Artists](https://colorhunt.co/palettes/popular)
+- [Generate - Coolors.co](https://coolors.co/)
+- [Color Hex Color Codes](https://www.color-hex.com/)
 
 ### `transform`
 
@@ -39,6 +43,8 @@ Design and CSS generator tools available out there. Ranked alphabetically in eac
 
 - [Border Radius CSS Generator | CSSmatic](https://www.cssmatic.com/border-radius)
 
+## Unit Converters
+- [PXtoEM.com: PX to EM conversion made simple.](http://pxtoem.com/)
 
 ## Misc
 - [Noise Texture CSS Generator | CSSmatic](https://www.cssmatic.com/noise-texture)
